@@ -11,12 +11,15 @@
     "prettier": "prettier --write src"
   },
   "dependencies": {
+    "@vitejs/plugin-react-swc": "^3.7.0",
     "bootstrap": "^5.3.3",
     "prettier": "^3.3.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-intersection-observer": "^9.13.0",
     "react-player": "^2.16.0",
+    "react-router": "^6.26.1",
+    "react-router-dom": "^6.26.1",
     "sass": "^1.77.8"
   },
   "devDependencies": {
